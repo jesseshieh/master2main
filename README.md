@@ -1,3 +1,6 @@
+This version uses a main branch instead of a master branch to verify that works fine with Gigalixir.
+This is using Elixir 1.11.1, Erlang 23.1, and Phoenix 1.5.6
+
 # GigalixirGettingStarted
 
 To start your Phoenix server:
